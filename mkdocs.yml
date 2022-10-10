@@ -1,0 +1,5 @@
+site_name: Sus
+theme:
+  name: material
+  palette:
+    scheme: slate
